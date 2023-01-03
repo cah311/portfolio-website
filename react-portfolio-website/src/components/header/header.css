@@ -37,16 +37,16 @@ header {
 }
 
 /* Header Image*/
-/* .me {
+.me {
   background: var(--color-primary);
   width: 22rem;
-  height: 22rem;
+  height: 30rem;
   position: absolute;
   left: calc(50% - 11rem);
   margin-top: 7rem;
   border-radius: 12rem 12rem 1rem 1rem;
   overflow: hidden;
-} */
+}
 
 /* Scroll Down*/
 .scroll__down {
